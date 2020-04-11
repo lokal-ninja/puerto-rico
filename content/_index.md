@@ -1,0 +1,3 @@
+Puerto Rico (Spanish for '"Rich Port"'; abbreviated PR), officially the Commonwealth of Puerto Rico (Spanish: Estado Libre Asociado de Puerto Rico, lit. "Free Associated State of Puerto Rico") and briefly called Porto Rico, is an unincorporated territory of the United States located in the northeast Caribbean Sea, approximately 1,000 miles (1,600 km) southeast of Miami, Florida.
+
+An archipelago among the Greater Antilles, located between the Dominican Republic and the US Virgin Islands, Puerto Rico includes the eponymous main island and several smaller islands, such as Mona, Culebra, and Vieques. The capital and most populous city is San Juan. (Wikipedia)
