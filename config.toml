@@ -1,7 +1,7 @@
 baseURL = "https://shoogle.us/puerto-rico"
 languageCode = "en-US"
 title = "Puerto Rico"
-theme = "ln-base-en"
+theme = "ln-base"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
