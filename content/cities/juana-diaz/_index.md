@@ -1,6 +1,6 @@
 ---
-title: Juana Diaz
+title: Juana Díaz
 url: /juana-diaz/
-latitude: 
-longitude: 
+latitude: 18.053035400000002
+longitude: -66.5058763
 ---

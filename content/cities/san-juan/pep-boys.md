@@ -1,4 +1,4 @@
 ---
-title: "Pep Boy's"
+title: "Pep Boys"
 url: /san-juan/pep-boys/
 ---
