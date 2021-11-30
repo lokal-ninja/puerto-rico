@@ -3,9 +3,9 @@ type: node
 latitude: 18.4493321
 longitude: -67.1506312
 postcode: "00603"
-city: AGUADILLA
-street: ""
-housenumber: PR-107 (Al lado de Gulf Gas Station)
+city: Aguadilla
+street: "PR-107"
+housenumber: 
 phone: "(787) 882-1824"
 opening_hours: "Mo-Sa 09:00-19:00; Su 09:00-17:00"
 website: ""
