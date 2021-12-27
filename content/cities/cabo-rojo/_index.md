@@ -1,6 +1,6 @@
 ---
 title: Cabo Rojo
 url: /cabo-rojo/
-latitude: 18.0870192
-longitude: -67.1459114
+latitude: 18.097
+longitude: -67.157
 ---

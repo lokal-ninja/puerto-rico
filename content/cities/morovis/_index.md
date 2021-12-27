@@ -1,6 +1,6 @@
 ---
 title: Morovis
 url: /morovis/
-latitude: 18.3259942
-longitude: -66.40735190000001
+latitude: 18.327
+longitude: -66.406
 ---

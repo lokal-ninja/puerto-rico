@@ -1,5 +1,5 @@
 ---
 title: "Libélulas"
 url: /san-juan/libelulas/
-shop: florist
+shop: Blumen
 ---

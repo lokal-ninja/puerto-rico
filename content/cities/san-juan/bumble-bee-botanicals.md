@@ -1,5 +1,5 @@
 ---
 title: "Bumble Bee Botanicals"
 url: /san-juan/bumble-bee-botanicals/
-shop: herbalist
+shop: Kräuter
 ---

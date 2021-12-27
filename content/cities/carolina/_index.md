@@ -1,6 +1,6 @@
 ---
 title: Carolina
 url: /carolina/
-latitude: 
-longitude: 
+latitude: 18.396
+longitude: -65.994
 ---

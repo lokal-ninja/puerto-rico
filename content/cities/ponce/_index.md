@@ -1,6 +1,6 @@
 ---
 title: Ponce
 url: /ponce/
-latitude: 
-longitude: 
+latitude: 18.012
+longitude: -66.614
 ---

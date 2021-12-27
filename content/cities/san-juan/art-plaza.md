@@ -1,5 +1,5 @@
 ---
 title: "Art Plaza"
 url: /san-juan/art-plaza/
-shop: craft
+shop: Basteln
 ---

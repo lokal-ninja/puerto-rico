@@ -1,6 +1,6 @@
 ---
 title: Humacao
 url: /humacao/
-latitude: 
-longitude: 
+latitude: 18.141
+longitude: -65.808
 ---

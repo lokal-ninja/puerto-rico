@@ -1,5 +1,5 @@
 ---
 title: "Fishi"
 url: /san-juan/fishi/
-shop: clothes
+shop: Kleidung
 ---

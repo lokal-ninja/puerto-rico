@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /aguadilla/rainbow/
-shop: clothes
+shop: Kleidung
 ---

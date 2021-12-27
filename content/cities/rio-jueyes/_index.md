@@ -1,6 +1,6 @@
 ---
 title: Río Jueyes
 url: /rio-jueyes/
-latitude: 
-longitude: 
+latitude: 18.004
+longitude: -66.295
 ---

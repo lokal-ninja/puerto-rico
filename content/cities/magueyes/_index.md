@@ -1,6 +1,6 @@
 ---
 title: Magueyes
 url: /magueyes/
-latitude: 
-longitude: 
+latitude: 18.032
+longitude: -66.642
 ---

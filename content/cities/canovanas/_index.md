@@ -1,6 +1,6 @@
 ---
 title: Canóvanas
 url: /canovanas/
-latitude: 18.3791932
-longitude: -65.9010221
+latitude: 18.378
+longitude: -65.874
 ---

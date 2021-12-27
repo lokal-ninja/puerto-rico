@@ -1,6 +1,6 @@
 ---
 title: Juncos
 url: /juncos/
-latitude: 18.2280547
-longitude: -65.9212251
+latitude: 18.23
+longitude: -65.921
 ---

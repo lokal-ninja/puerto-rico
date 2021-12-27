@@ -1,5 +1,5 @@
 ---
 title: "Dossy Salon"
 url: /san-juan/dossy-salon/
-shop: hairdresser
+shop: Friseur
 ---

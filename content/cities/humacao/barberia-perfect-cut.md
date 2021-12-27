@@ -1,5 +1,5 @@
 ---
 title: "Barbería Perfect Cut"
 url: /humacao/barberia-perfect-cut/
-shop: hairdresser
+shop: Friseur
 ---

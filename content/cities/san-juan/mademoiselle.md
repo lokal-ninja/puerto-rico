@@ -1,5 +1,5 @@
 ---
 title: "Mademoiselle"
 url: /san-juan/mademoiselle/
-shop: clothes
+shop: Kleidung
 ---

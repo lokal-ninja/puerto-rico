@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /manati/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

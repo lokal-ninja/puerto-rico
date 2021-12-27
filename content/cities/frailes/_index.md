@@ -1,6 +1,6 @@
 ---
 title: Frailes
 url: /frailes/
-latitude: 18.138886300000003
-longitude: -66.9102443
+latitude: 18.384
+longitude: -66.117
 ---

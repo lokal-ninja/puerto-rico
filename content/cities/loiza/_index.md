@@ -1,6 +1,6 @@
 ---
 title: Loíza
 url: /loiza/
-latitude: 18.432666700000002
-longitude: -65.8798436
+latitude: 18.428
+longitude: -65.878
 ---

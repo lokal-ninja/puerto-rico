@@ -1,6 +1,6 @@
 ---
 title: Culebra
 url: /culebra/
-latitude: 18.3030519
-longitude: -65.30009890000001
+latitude: 18.301
+longitude: -65.302
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Alezia"
 url: /catano/alezia/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mil Rosas Salón"
 url: /san-juan/mil-rosas-salon/
-shop: hairdresser
+shop: Friseur
 ---

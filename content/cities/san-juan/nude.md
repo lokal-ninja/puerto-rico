@@ -1,5 +1,5 @@
 ---
 title: "NUDE"
 url: /san-juan/nude/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /carolina/ford/
-shop: car
+shop: Autohaus
 ---

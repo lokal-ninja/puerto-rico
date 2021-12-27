@@ -1,5 +1,5 @@
 ---
 title: "HQJ Plumbing - Aguadilla"
 url: /aguadilla/hqj-plumbing-aguadilla/
-shop: shop
+shop: Allgemein
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ramey Base
 url: /ramey-base/
-latitude: 
-longitude: 
+latitude: 18.503
+longitude: -67.141
 ---

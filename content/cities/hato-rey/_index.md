@@ -1,6 +1,6 @@
 ---
 title: Hato Rey
 url: /hato-rey/
-latitude: 
-longitude: 
+latitude: 18.417
+longitude: -66.052
 ---

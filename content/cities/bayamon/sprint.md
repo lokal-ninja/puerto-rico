@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /bayamon/sprint/
-shop: mobile phone
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Freshmart"
 url: /san-juan/freshmart/
-shop: deli
+shop: Feinkost
 ---

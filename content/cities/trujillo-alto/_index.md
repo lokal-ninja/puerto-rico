@@ -1,6 +1,6 @@
 ---
 title: trujillo alto
 url: /trujillo-alto/
-latitude: 
-longitude: 
+latitude: 18.371
+longitude: -66.026
 ---

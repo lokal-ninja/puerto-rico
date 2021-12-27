@@ -1,6 +1,6 @@
 ---
 title: Guayama
 url: /guayama/
-latitude: 
-longitude: 
+latitude: 17.98
+longitude: -66.097
 ---

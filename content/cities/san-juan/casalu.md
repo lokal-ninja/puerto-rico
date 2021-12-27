@@ -1,5 +1,5 @@
 ---
 title: "Casalú"
 url: /san-juan/casalu/
-shop: shop
+shop: Allgemein
 ---

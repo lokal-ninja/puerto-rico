@@ -1,6 +1,6 @@
 ---
 title: Luquillo
 url: /luquillo/
-latitude: 18.3759149
-longitude: -65.71581470000001
+latitude: 18.369
+longitude: -65.72
 ---

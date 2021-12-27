@@ -1,5 +1,5 @@
 ---
 title: "Amigo"
 url: /guayama/amigo/
-shop: supermarket
+shop: Supermarkt
 ---

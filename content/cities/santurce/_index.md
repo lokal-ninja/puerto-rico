@@ -1,6 +1,6 @@
 ---
 title: Santurce
 url: /santurce/
-latitude: 
-longitude: 
+latitude: 18.453
+longitude: -66.086
 ---

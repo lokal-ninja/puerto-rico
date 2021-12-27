@@ -1,6 +1,6 @@
 ---
 title: Naguabo
 url: /naguabo/
-latitude: 
-longitude: 
+latitude: 18.233
+longitude: -65.761
 ---

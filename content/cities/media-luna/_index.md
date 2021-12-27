@@ -1,6 +1,6 @@
 ---
 title: Media Luna
 url: /media-luna/
-latitude: 18.4266018
-longitude: -66.247507
+latitude: 18.396
+longitude: -66.233
 ---

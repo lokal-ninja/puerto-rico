@@ -1,6 +1,6 @@
 ---
 title: Dorado
 url: /dorado/
-latitude: 18.4587209
-longitude: -66.2677506
+latitude: 18.464
+longitude: -66.268
 ---

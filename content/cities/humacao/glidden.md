@@ -1,5 +1,5 @@
 ---
 title: "Glidden"
 url: /humacao/glidden/
-shop: paint
+shop: Farben
 ---

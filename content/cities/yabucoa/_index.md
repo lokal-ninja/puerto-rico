@@ -1,6 +1,6 @@
 ---
 title: YABUCOA
 url: /yabucoa/
-latitude: 
-longitude: 
+latitude: 18.045
+longitude: -65.867
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Versace"
 url: /san-juan/versace/
-shop: shop
+shop: Allgemein
 ---

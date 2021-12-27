@@ -1,6 +1,6 @@
 ---
 title: Isabela
 url: /isabela/
-latitude: 18.5008172
-longitude: -67.024343
+latitude: 18.468
+longitude: -67.022
 ---

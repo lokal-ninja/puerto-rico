@@ -1,5 +1,5 @@
 ---
 title: "Borinquen Title Loans"
 url: /santa-isabel/borinquen-title-loans/
-shop: pawnbroker
+shop: Leiher
 ---

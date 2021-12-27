@@ -1,5 +1,5 @@
 ---
 title: "Journeys"
 url: /humacao/journeys/
-shop: shoes
+shop: Schuhe
 ---

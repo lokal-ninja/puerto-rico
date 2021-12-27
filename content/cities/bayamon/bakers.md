@@ -1,5 +1,5 @@
 ---
 title: "Bakers"
 url: /bayamon/bakers/
-shop: shoes
+shop: Schuhe
 ---

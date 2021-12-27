@@ -1,6 +1,6 @@
 ---
 title: Bayamón
 url: /bayamon/
-latitude: 18.3990551
-longitude: -66.1560326
+latitude: 18.342
+longitude: -66.197
 ---

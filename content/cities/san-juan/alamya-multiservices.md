@@ -1,5 +1,5 @@
 ---
 title: "Alamya Multiservices"
 url: /san-juan/alamya-multiservices/
-shop: shop
+shop: Allgemein
 ---

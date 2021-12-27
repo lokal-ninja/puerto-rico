@@ -1,6 +1,6 @@
 ---
 title: Gurabo
 url: /gurabo/
-latitude: 18.2555647
-longitude: -65.9723799
+latitude: 18.254
+longitude: -65.969
 ---

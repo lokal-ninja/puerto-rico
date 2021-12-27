@@ -1,5 +1,5 @@
 ---
 title: "Tous"
 url: /carolina/tous/
-shop: jewelry
+shop: Schmuck
 ---
