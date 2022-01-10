@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Jiménez Martínez"
 url: /canovanas/funeraria-jimenez-martinez/
-shop: Bestattungen
+shop: funeral directors
 ---

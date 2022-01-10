@@ -1,5 +1,5 @@
 ---
 title: "La Hacienda"
 url: /san-juan/la-hacienda/
-shop: Supermarkt
+shop: supermarket
 ---

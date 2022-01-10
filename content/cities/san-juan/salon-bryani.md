@@ -1,5 +1,5 @@
 ---
 title: "Salon Bryani"
 url: /san-juan/salon-bryani/
-shop: Friseur
+shop: hairdresser
 ---

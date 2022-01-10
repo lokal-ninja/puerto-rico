@@ -1,5 +1,5 @@
 ---
 title: "Edgar Grooming"
 url: /aguadilla/edgar-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

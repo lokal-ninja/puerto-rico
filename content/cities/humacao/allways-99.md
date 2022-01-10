@@ -1,5 +1,5 @@
 ---
 title: "Allways 99"
 url: /humacao/allways-99/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tiendas Capri"
 url: /manati/tiendas-capri/
-shop: Kramladen
+shop: variety store
 ---

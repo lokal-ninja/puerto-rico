@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom"
 url: /san-juan/nordstrom/
-shop: Warenhaus
+shop: department store
 ---

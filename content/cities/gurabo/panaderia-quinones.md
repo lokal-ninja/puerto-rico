@@ -1,5 +1,5 @@
 ---
 title: "Panadería Quiñones"
 url: /gurabo/panaderia-quinones/
-shop: Bäckerei
+shop: bakery
 ---

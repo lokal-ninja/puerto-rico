@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /san-juan/pandora/
-shop: Schmuck
+shop: jewelry
 ---

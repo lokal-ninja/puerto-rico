@@ -1,5 +1,5 @@
 ---
 title: "Cristal Beauty Salon"
 url: /san-juan/cristal-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

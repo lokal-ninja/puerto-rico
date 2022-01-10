@@ -1,5 +1,5 @@
 ---
 title: "Kraken Brand"
 url: /san-juan/kraken-brand/
-shop: Kleidung
+shop: clothes
 ---

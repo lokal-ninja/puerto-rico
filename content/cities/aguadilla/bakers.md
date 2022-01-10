@@ -1,5 +1,5 @@
 ---
 title: "Bakers"
 url: /aguadilla/bakers/
-shop: Schuhe
+shop: shoes
 ---

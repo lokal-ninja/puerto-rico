@@ -1,5 +1,5 @@
 ---
 title: "SMJ Celulares, Inc"
 url: /san-juan/smj-celulares-inc/
-shop: Handy
+shop: mobile phone
 ---

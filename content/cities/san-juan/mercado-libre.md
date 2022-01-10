@@ -1,5 +1,5 @@
 ---
 title: "Mercado Libre"
 url: /san-juan/mercado-libre/
-shop: Allgemein
+shop: shop
 ---

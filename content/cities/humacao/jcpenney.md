@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /humacao/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

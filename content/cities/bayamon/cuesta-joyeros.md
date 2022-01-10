@@ -1,5 +1,5 @@
 ---
 title: "Cuesta Joyeros"
 url: /bayamon/cuesta-joyeros/
-shop: Schmuck
+shop: jewelry
 ---

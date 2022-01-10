@@ -1,5 +1,5 @@
 ---
 title: "Econo Aguadilla"
 url: /aguadilla/econo-aguadilla/
-shop: Supermarkt
+shop: supermarket
 ---

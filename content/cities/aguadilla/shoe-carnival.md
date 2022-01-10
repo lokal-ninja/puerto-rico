@@ -1,5 +1,5 @@
 ---
 title: "Shoe Carnival"
 url: /aguadilla/shoe-carnival/
-shop: Schuhe
+shop: shoes
 ---

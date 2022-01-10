@@ -1,5 +1,5 @@
 ---
 title: "Sears"
 url: /manati/sears/
-shop: Warenhaus
+shop: department store
 ---

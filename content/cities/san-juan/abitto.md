@@ -1,5 +1,5 @@
 ---
 title: "Abitto"
 url: /san-juan/abitto/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "All Ways 99"
 url: /corozal/all-ways-99/
-shop: Kramladen
+shop: variety store
 ---

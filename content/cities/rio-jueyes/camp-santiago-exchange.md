@@ -1,5 +1,5 @@
 ---
 title: "Camp Santiago Exchange"
 url: /rio-jueyes/camp-santiago-exchange/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plaza Loiza"
 url: /trujillo-alto/plaza-loiza/
-shop: Supermarkt
+shop: supermarket
 ---

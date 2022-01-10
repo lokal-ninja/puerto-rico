@@ -1,5 +1,5 @@
 ---
 title: "Vita Natura"
 url: /humacao/vita-natura/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

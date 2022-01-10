@@ -1,5 +1,5 @@
 ---
 title: "Estela Boutique"
 url: /san-juan/estela-boutique/
-shop: Kosmetik
+shop: beauty
 ---

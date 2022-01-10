@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /aguadilla/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Erick"
 url: /morovis/funeraria-erick/
-shop: Bestattungen
+shop: funeral directors
 ---

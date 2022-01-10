@@ -1,5 +1,5 @@
 ---
 title: "Outlet China"
 url: /humacao/outlet-china/
-shop: Baumarkt
+shop: doityourself
 ---

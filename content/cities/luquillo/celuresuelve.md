@@ -1,5 +1,5 @@
 ---
 title: "Celuresuelve"
 url: /luquillo/celuresuelve/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Viva Uniforms"
 url: /san-juan/viva-uniforms/
-shop: Kleidung
+shop: clothes
 ---

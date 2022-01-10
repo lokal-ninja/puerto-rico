@@ -1,5 +1,5 @@
 ---
 title: "SuperMax"
 url: /vega-baja/supermax/
-shop: Supermarkt
+shop: supermarket
 ---

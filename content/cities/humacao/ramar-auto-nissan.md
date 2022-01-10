@@ -1,5 +1,5 @@
 ---
 title: "Ramar Auto Nissan"
 url: /humacao/ramar-auto-nissan/
-shop: Autohaus
+shop: car
 ---

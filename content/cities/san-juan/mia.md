@@ -1,5 +1,5 @@
 ---
 title: "Mia"
 url: /san-juan/mia/
-shop: Kleidung
+shop: clothes
 ---

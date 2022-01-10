@@ -1,5 +1,5 @@
 ---
 title: "Me Salvé"
 url: /catano/me-salve/
-shop: Kleidung
+shop: clothes
 ---

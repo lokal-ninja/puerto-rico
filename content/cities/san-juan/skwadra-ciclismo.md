@@ -1,5 +1,5 @@
 ---
 title: "Skwadra Ciclismo"
 url: /san-juan/skwadra-ciclismo/
-shop: Sport
+shop: sports
 ---

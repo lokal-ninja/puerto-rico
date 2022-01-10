@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /manati/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

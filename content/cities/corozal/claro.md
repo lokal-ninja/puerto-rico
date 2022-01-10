@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /corozal/claro/
-shop: Handy
+shop: mobile phone
 ---

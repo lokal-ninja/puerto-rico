@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /caimital-bajo/kmart/
-shop: Warenhaus
+shop: department store
 ---

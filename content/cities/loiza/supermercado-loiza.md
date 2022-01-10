@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Loíza"
 url: /loiza/supermercado-loiza/
-shop: Supermarkt
+shop: supermarket
 ---

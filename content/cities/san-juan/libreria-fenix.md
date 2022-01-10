@@ -1,5 +1,5 @@
 ---
 title: "Librería Fénix"
 url: /san-juan/libreria-fenix/
-shop: Bücher
+shop: books
 ---

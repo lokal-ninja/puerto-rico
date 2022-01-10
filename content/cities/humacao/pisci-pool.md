@@ -1,5 +1,5 @@
 ---
 title: "PISCI-POOL"
 url: /humacao/pisci-pool/
-shop: Pool
+shop: swimming pool
 ---

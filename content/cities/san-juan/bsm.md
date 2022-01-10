@@ -1,5 +1,5 @@
 ---
 title: "BSM"
 url: /san-juan/bsm/
-shop: Autowerkstatt
+shop: car repair
 ---

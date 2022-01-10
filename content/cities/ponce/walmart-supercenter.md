@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /ponce/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

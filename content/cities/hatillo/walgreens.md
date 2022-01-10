@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /hatillo/walgreens/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /humacao/lids/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Me Salvé"
 url: /aguadilla/me-salve-2/
-shop: Kleidung
+shop: clothes
 ---

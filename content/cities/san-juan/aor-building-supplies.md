@@ -1,5 +1,5 @@
 ---
 title: "AOR Building Supplies"
 url: /san-juan/aor-building-supplies/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /catano/claro/
-shop: Handy
+shop: mobile phone
 ---

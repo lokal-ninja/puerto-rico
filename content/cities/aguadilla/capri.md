@@ -1,5 +1,5 @@
 ---
 title: "Capri"
 url: /aguadilla/capri/
-shop: Warenhaus
+shop: department store
 ---

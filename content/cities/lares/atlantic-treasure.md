@@ -1,5 +1,5 @@
 ---
 title: "Atlantic Treasure"
 url: /lares/atlantic-treasure/
-shop: Allgemein
+shop: shop
 ---

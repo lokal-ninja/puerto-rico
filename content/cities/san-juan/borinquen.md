@@ -1,5 +1,5 @@
 ---
 title: "Borinquen"
 url: /san-juan/borinquen/
-shop: Bestattungen
+shop: funeral directors
 ---

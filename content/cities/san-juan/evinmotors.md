@@ -1,5 +1,5 @@
 ---
 title: "Evinmotors"
 url: /san-juan/evinmotors/
-shop: Motorrad
+shop: motorcycle
 ---

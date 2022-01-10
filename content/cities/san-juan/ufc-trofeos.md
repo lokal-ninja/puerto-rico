@@ -1,5 +1,5 @@
 ---
 title: "UFC Trofeos"
 url: /san-juan/ufc-trofeos/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dufry Shops"
 url: /carolina/dufry-shops/
-shop: Lebensmittel
+shop: convenience
 ---

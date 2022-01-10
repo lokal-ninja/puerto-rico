@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /aguadilla/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---
