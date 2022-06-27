@@ -1,6 +1,6 @@
 ---
 title: Aguada
 url: /aguada/
-latitude: 18.378
-longitude: -67.192
+latitude: 18.383
+longitude: -67.197
 ---
