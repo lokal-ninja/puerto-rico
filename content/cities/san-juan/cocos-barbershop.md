@@ -1,5 +1,5 @@
 ---
-title: "Cocó's Barbershop"
+title: "Coco's Barbershop"
 url: /san-juan/cocos-barbershop/
 shop: hairdresser
 ---
