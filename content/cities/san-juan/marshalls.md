@@ -1,5 +1,5 @@
 ---
-title: "Marshall's"
+title: "Marshalls"
 url: /san-juan/marshalls/
-shop: clothes
+shop: department store
 ---
