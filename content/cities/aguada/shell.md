@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /arecibo/shell/
+url: /aguada/shell/
 shop: convenience
 ---
