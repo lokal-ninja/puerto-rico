@@ -1,5 +1,5 @@
 ---
 title: "Pueblo"
-url: /aguadilla/pueblo-2/
+url: /aguadilla/pueblo/
 shop: supermarket
 ---

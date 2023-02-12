@@ -1,5 +1,5 @@
 ---
 title: "Coffee Masters"
-url: /aguadilla/coffee-masters-2/
+url: /aguadilla/coffee-masters/
 shop: coffee
 ---

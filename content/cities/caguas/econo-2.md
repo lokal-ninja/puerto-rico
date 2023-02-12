@@ -1,5 +1,5 @@
 ---
 title: "Econo"
-url: /caguas/econo-2/
+url: /caguas/econo/
 shop: supermarket
 ---
