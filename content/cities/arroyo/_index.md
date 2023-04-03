@@ -1,6 +1,6 @@
 ---
 title: Arroyo
 url: /arroyo/
-latitude: 17.976
-longitude: -66.069
+latitude: 17.975
+longitude: -66.058
 ---
