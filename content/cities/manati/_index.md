@@ -1,6 +1,6 @@
 ---
 title: Manatí
 url: /manati/
-latitude: 18.44
-longitude: -66.446
+latitude: 18.433
+longitude: -66.474
 ---
