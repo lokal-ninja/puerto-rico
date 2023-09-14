@@ -1,5 +1,5 @@
 ---
 title: "Total"
-url: /caguas/total/
+url: /caguas/total-carretera-central/
 shop: convenience
 ---

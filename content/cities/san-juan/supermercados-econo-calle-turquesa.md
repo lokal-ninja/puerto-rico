@@ -1,5 +1,5 @@
 ---
 title: "Supermercados Econo"
-url: /san-juan/supermercados-econo/
+url: /san-juan/supermercados-econo-calle-turquesa/
 shop: supermarket
 ---

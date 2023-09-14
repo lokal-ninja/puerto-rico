@@ -1,5 +1,5 @@
 ---
 title: "Gulf Express"
-url: /san-juan/gulf-express/
+url: /san-juan/gulf-express-carretera-caimito/
 shop: convenience
 ---

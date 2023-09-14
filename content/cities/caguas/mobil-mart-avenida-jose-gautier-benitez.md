@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /caguas/mobil-mart/
+url: /caguas/mobil-mart-avenida-jose-gautier-benitez/
 shop: convenience
 ---

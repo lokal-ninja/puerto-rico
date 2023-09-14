@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /aguadilla/mobil-mart/
+url: /aguadilla/mobil-mart-carretera-militar/
 shop: convenience
 ---

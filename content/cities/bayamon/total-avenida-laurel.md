@@ -1,5 +1,5 @@
 ---
 title: "Total"
-url: /bayamon/total/
+url: /bayamon/total-avenida-laurel/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
-url: /bayamon/texaco/
+url: /bayamon/texaco-avenida-dr-agustin-stahl/
 shop: convenience
 ---

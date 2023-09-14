@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /dorado/mobil-mart/
+url: /dorado/mobil-mart-carretera-militar/
 shop: convenience
 ---

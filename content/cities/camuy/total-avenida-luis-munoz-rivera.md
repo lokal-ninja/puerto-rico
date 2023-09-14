@@ -1,5 +1,5 @@
 ---
 title: "Total"
-url: /camuy/total/
+url: /camuy/total-avenida-luis-munoz-rivera/
 shop: convenience
 ---

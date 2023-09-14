@@ -1,5 +1,5 @@
 ---
 title: "Total"
-url: /trujillo-alto/total/
+url: /trujillo-alto/total-calle-marginal/
 shop: convenience
 ---

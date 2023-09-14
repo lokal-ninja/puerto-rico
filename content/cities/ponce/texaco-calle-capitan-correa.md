@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
-url: /ponce/texaco/
+url: /ponce/texaco-calle-capitan-correa/
 shop: convenience
 ---

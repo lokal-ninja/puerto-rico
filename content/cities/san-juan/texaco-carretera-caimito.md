@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
-url: /san-juan/texaco/
+url: /san-juan/texaco-carretera-caimito/
 shop: convenience
 ---

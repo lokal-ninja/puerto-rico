@@ -1,5 +1,5 @@
 ---
 title: "Total"
-url: /dorado/total/
+url: /dorado/total-carretera-militar/
 shop: convenience
 ---

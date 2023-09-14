@@ -1,5 +1,5 @@
 ---
 title: "Gulf Express"
-url: /mayaguez/gulf-express/
+url: /mayaguez/gulf-express-carretera-mayaguez-las-marias/
 shop: convenience
 ---
