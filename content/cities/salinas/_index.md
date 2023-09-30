@@ -1,6 +1,6 @@
 ---
 title: Salinas
 url: /salinas/
-latitude: 17.974
-longitude: -66.291
+latitude: 18.037
+longitude: -66.24
 ---

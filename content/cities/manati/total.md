@@ -1,5 +1,5 @@
 ---
 title: "Total"
-url: /san-juan/total-calle-san-claudio/
+url: /manati/total/
 shop: convenience
 ---
