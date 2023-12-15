@@ -1,5 +1,5 @@
 ---
-title: "Me Salve"
+title: "Me Salvé"
 url: /bayamon/me-salve/
-shop: clothes
+shop: department store
 ---
