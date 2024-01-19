@@ -1,6 +1,6 @@
 ---
 title: Moca
 url: /moca/
-latitude: 18.394
-longitude: -67.111
+latitude: 18.393
+longitude: -67.107
 ---
