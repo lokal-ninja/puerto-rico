@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
-url: /hatillo/mobil-mart-carretera-militar/
+url: /las-marias/mobil-mart/
 shop: convenience
 ---
