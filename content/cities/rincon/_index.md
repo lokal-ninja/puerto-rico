@@ -1,6 +1,6 @@
 ---
 title: Rincón
 url: /rincon/
-latitude: 18.314
-longitude: -67.224
+latitude: 18.337
+longitude: -67.252
 ---
