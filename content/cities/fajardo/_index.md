@@ -1,6 +1,6 @@
 ---
 title: Fajardo
 url: /fajardo/
-latitude: 18.335
-longitude: -65.665
+latitude: 18.296
+longitude: -65.645
 ---
