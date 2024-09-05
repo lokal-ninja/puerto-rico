@@ -1,5 +1,5 @@
 ---
 title: "Gomera"
 url: /san-juan/gomera/
-shop: tyres
+shop: Reifen
 ---

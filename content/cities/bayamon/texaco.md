@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /bayamon/texaco/
-shop: convenience
+shop: Lebensmittel
 ---

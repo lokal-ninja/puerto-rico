@@ -1,5 +1,5 @@
 ---
 title: "Adriel Toyota"
 url: /toa-alta/adriel-toyota/
-shop: car
+shop: Autohaus
 ---

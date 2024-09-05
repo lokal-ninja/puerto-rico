@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /patillas/total/
-shop: convenience
+shop: Lebensmittel
 ---

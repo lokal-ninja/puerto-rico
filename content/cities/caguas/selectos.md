@@ -1,5 +1,5 @@
 ---
 title: "Selectos"
 url: /caguas/selectos/
-shop: supermarket
+shop: Supermarkt
 ---

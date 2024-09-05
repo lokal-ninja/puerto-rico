@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /penuelas/total/
-shop: convenience
+shop: Lebensmittel
 ---

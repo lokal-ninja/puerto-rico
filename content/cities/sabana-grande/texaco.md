@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /sabana-grande/texaco/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fun World"
 url: /humacao/fun-world/
-shop: toys
+shop: Spielzeug
 ---

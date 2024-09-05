@@ -1,5 +1,5 @@
 ---
 title: "Kimbo"
 url: /san-juan/kimbo/
-shop: coffee
+shop: Kaffee
 ---

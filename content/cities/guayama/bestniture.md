@@ -1,5 +1,5 @@
 ---
 title: "Bestniture"
 url: /guayama/bestniture/
-shop: furniture
+shop: Möbel
 ---

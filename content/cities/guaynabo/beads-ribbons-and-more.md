@@ -1,5 +1,5 @@
 ---
 title: "Beads, Ribbons and More"
 url: /guaynabo/beads-ribbons-and-more/
-shop: craft
+shop: Basteln
 ---

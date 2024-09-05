@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /caguas/total-avenida-luis-munoz-marin/
-shop: convenience
+shop: Lebensmittel
 ---

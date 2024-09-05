@@ -1,5 +1,5 @@
 ---
 title: "To Go Stores"
 url: /san-juan/to-go-stores-avenida-luis-vigoreaux-rivera/
-shop: convenience
+shop: Lebensmittel
 ---

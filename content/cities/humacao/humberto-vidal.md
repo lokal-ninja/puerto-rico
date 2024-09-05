@@ -1,5 +1,5 @@
 ---
 title: "Humberto Vidal"
 url: /humacao/humberto-vidal/
-shop: shoes
+shop: Schuhe
 ---

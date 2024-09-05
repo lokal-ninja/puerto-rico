@@ -1,5 +1,5 @@
 ---
 title: "Puma"
 url: /san-juan/puma/
-shop: convenience
+shop: Lebensmittel
 ---

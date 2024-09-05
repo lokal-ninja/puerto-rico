@@ -1,5 +1,5 @@
 ---
 title: "Quality Food Mart"
 url: /loiza/quality-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

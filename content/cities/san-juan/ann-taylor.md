@@ -1,5 +1,5 @@
 ---
 title: "Ann Taylor"
 url: /san-juan/ann-taylor/
-shop: clothes
+shop: Kleidung
 ---

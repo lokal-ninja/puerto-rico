@@ -1,5 +1,5 @@
 ---
 title: "Agranel Aguadilla"
 url: /aguadilla/agranel-aguadilla/
-shop: supermarket
+shop: Supermarkt
 ---

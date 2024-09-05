@@ -1,5 +1,5 @@
 ---
 title: "Tous"
 url: /bayamon/tous/
-shop: jewelry
+shop: Schmuck
 ---

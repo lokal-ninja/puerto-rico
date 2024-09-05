@@ -1,5 +1,5 @@
 ---
 title: "To Go Stores"
 url: /carolina/to-go-stores/
-shop: convenience
+shop: Lebensmittel
 ---

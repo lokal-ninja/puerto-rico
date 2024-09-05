@@ -1,5 +1,5 @@
 ---
 title: "Botánica Ana María"
 url: /san-juan/botanica-ana-maria/
-shop: religion
+shop: Religion
 ---

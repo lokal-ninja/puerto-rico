@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /isabela/total/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nativa"
 url: /san-juan/nativa/
-shop: boutique
+shop: Modehaus
 ---

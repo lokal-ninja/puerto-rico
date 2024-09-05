@@ -1,5 +1,5 @@
 ---
 title: "Garota"
 url: /san-juan/garota/
-shop: clothes
+shop: Kleidung
 ---

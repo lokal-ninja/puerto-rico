@@ -1,5 +1,5 @@
 ---
 title: "Amigo"
 url: /bayamon/amigo/
-shop: supermarket
+shop: Supermarkt
 ---

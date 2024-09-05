@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /guaynabo/autozone/
-shop: car parts
+shop: Autoteile
 ---

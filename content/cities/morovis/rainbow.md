@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
 url: /morovis/rainbow/
-shop: clothes
+shop: Kleidung
 ---

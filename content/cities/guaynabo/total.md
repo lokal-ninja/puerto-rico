@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /guaynabo/total/
-shop: convenience
+shop: Lebensmittel
 ---

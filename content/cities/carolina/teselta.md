@@ -1,5 +1,5 @@
 ---
 title: "Teselta"
 url: /carolina/teselta/
-shop: trade
+shop: Baustoffe
 ---

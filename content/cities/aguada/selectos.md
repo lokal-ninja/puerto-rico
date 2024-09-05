@@ -1,5 +1,5 @@
 ---
 title: "Selectos"
 url: /aguada/selectos/
-shop: supermarket
+shop: Supermarkt
 ---

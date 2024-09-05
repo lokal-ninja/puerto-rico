@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /ponce/total-pr-500/
-shop: convenience
+shop: Lebensmittel
 ---

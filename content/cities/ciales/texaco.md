@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /ciales/texaco/
-shop: convenience
+shop: Lebensmittel
 ---

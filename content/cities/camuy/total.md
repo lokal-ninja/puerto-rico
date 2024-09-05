@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /camuy/total/
-shop: convenience
+shop: Lebensmittel
 ---

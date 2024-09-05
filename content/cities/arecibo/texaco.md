@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /arecibo/texaco/
-shop: convenience
+shop: Lebensmittel
 ---

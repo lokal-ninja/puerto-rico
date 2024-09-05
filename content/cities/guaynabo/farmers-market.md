@@ -1,5 +1,5 @@
 ---
 title: "Farmers Market"
 url: /guaynabo/farmers-market/
-shop: cannabis
+shop: Hanf
 ---

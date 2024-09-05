@@ -1,5 +1,5 @@
 ---
 title: "Floristería"
 url: /catano/floristeria/
-shop: florist
+shop: Blumen
 ---

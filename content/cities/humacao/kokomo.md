@@ -1,5 +1,5 @@
 ---
 title: "Kokomo"
 url: /humacao/kokomo/
-shop: sports
+shop: Sport
 ---

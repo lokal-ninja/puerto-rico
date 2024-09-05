@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /yauco/mobil-mart/
-shop: convenience
+shop: Lebensmittel
 ---

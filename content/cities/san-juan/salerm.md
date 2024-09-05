@@ -1,5 +1,5 @@
 ---
 title: "SALERM"
 url: /san-juan/salerm/
-shop: beauty
+shop: Kosmetik
 ---

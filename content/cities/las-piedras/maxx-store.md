@@ -1,5 +1,5 @@
 ---
 title: "Maxx Store"
 url: /las-piedras/maxx-store/
-shop: convenience
+shop: Lebensmittel
 ---

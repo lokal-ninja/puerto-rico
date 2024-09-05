@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /arroyo/texaco/
-shop: convenience
+shop: Lebensmittel
 ---

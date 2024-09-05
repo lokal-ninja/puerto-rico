@@ -1,5 +1,5 @@
 ---
 title: "Zumiez"
 url: /bayamon/zumiez/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /caguas/shell/
-shop: convenience
+shop: Lebensmittel
 ---

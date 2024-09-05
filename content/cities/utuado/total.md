@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /utuado/total/
-shop: convenience
+shop: Lebensmittel
 ---

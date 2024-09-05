@@ -1,5 +1,5 @@
 ---
 title: "Teselta"
 url: /catano/teselta/
-shop: trade
+shop: Baustoffe
 ---

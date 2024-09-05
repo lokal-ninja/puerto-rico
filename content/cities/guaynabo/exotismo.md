@@ -1,5 +1,5 @@
 ---
 title: "Exotismo"
 url: /guaynabo/exotismo/
-shop: antiques
+shop: Antiquitäten
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Servicentro Texaco"
 url: /guaynabo/servicentro-texaco/
-shop: car repair
+shop: Autowerkstatt
 ---

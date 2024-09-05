@@ -1,5 +1,5 @@
 ---
 title: "Nosotras Salón"
 url: /guaynabo/nosotras-salon/
-shop: beauty
+shop: Kosmetik
 ---

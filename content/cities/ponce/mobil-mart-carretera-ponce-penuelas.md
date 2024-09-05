@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /ponce/mobil-mart-carretera-ponce-penuelas/
-shop: convenience
+shop: Lebensmittel
 ---

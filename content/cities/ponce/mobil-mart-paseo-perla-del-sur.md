@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /ponce/mobil-mart-paseo-perla-del-sur/
-shop: convenience
+shop: Lebensmittel
 ---

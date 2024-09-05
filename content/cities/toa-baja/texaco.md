@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /toa-baja/texaco/
-shop: convenience
+shop: Lebensmittel
 ---

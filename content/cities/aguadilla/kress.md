@@ -1,5 +1,5 @@
 ---
 title: "Kress"
 url: /aguadilla/kress/
-shop: clothes
+shop: Kleidung
 ---

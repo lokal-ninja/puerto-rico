@@ -1,5 +1,5 @@
 ---
 title: "BoxLunch"
 url: /bayamon/boxlunch/
-shop: gift
+shop: Andenken
 ---
