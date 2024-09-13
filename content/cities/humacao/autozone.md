@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /humacao/autozone/
-shop: Autoteile
+shop: car parts
 ---

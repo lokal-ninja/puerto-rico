@@ -1,5 +1,5 @@
 ---
 title: "Express Office Products"
 url: /bayamon/express-office-products/
-shop: Schreibwaren
+shop: office supplies
 ---

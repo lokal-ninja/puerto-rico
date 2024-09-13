@@ -1,5 +1,5 @@
 ---
 title: "Taller Padilla"
 url: /juana-diaz/taller-padilla/
-shop: Autowerkstatt
+shop: car repair
 ---

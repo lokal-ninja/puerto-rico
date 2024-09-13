@@ -1,5 +1,5 @@
 ---
 title: "Gulf Express"
 url: /trujillo-alto/gulf-express/
-shop: Lebensmittel
+shop: convenience
 ---

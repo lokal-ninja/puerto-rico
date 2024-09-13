@@ -1,5 +1,5 @@
 ---
 title: "EuroHause"
 url: /carolina/eurohause/
-shop: Autoteile
+shop: car parts
 ---

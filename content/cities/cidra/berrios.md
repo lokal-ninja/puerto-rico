@@ -1,5 +1,5 @@
 ---
 title: "Berríos"
 url: /cidra/berrios/
-shop: Möbel
+shop: furniture
 ---

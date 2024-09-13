@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /loiza/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

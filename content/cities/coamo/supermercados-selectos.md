@@ -1,5 +1,5 @@
 ---
 title: "Supermercados Selectos"
 url: /coamo/supermercados-selectos/
-shop: Supermarkt
+shop: supermarket
 ---

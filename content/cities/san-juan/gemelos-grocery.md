@@ -1,5 +1,5 @@
 ---
 title: "Gemelos Grocery"
 url: /san-juan/gemelos-grocery/
-shop: Supermarkt
+shop: supermarket
 ---

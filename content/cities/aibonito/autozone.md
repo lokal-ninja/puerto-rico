@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /aibonito/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Selectos"
 url: /bayamon/selectos/
-shop: Supermarkt
+shop: supermarket
 ---

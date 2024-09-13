@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /cayey/total/
-shop: Lebensmittel
+shop: convenience
 ---

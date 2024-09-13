@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /juncos/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

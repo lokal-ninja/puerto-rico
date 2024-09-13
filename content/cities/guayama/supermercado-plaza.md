@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Plaza"
 url: /guayama/supermercado-plaza/
-shop: Supermarkt
+shop: supermarket
 ---

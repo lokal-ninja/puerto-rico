@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /cayey/burlington/
-shop: Warenhaus
+shop: department store
 ---

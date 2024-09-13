@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /rincon/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

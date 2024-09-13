@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /humacao/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

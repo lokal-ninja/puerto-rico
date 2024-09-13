@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /camuy/total-avenida-luis-munoz-rivera/
-shop: Lebensmittel
+shop: convenience
 ---

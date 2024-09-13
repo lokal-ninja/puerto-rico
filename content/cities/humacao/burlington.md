@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /humacao/burlington/
-shop: Warenhaus
+shop: department store
 ---

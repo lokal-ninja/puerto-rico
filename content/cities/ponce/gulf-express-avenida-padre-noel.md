@@ -1,5 +1,5 @@
 ---
 title: "Gulf Express"
 url: /ponce/gulf-express-avenida-padre-noel/
-shop: Lebensmittel
+shop: convenience
 ---

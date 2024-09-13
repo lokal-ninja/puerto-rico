@@ -1,5 +1,5 @@
 ---
 title: "Evo Electronics"
 url: /humacao/evo-electronics/
-shop: Elektronik
+shop: electronics
 ---

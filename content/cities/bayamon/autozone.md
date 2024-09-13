@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /bayamon/autozone/
-shop: Autoteile
+shop: car parts
 ---

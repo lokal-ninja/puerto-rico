@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /guanica/total/
-shop: Lebensmittel
+shop: convenience
 ---

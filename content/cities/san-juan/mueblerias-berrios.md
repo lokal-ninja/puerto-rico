@@ -1,5 +1,5 @@
 ---
 title: "Mueblerías Berríos"
 url: /san-juan/mueblerias-berrios/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Adriel Toyota"
 url: /rio-grande/adriel-toyota/
-shop: Autohaus
+shop: car
 ---

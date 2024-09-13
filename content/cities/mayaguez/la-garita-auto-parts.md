@@ -1,5 +1,5 @@
 ---
 title: "La Garita Auto Parts"
 url: /mayaguez/la-garita-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

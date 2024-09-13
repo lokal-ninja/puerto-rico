@@ -1,5 +1,5 @@
 ---
 title: "Galería del Norte"
 url: /hatillo/galeria-del-norte/
-shop: Einkaufszentrum
+shop: mall
 ---

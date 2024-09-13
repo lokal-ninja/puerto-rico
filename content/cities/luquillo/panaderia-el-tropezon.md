@@ -1,5 +1,5 @@
 ---
 title: "Panadería El Tropezón"
 url: /luquillo/panaderia-el-tropezon/
-shop: Bäckerei
+shop: bakery
 ---

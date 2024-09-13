@@ -1,5 +1,5 @@
 ---
 title: "Supermercados Econo"
 url: /carolina/supermercados-econo/
-shop: Supermarkt
+shop: supermarket
 ---

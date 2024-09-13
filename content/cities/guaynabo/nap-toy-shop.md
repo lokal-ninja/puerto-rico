@@ -1,5 +1,5 @@
 ---
 title: "NAP Toy Shop"
 url: /guaynabo/nap-toy-shop/
-shop: Spielzeug
+shop: toys
 ---

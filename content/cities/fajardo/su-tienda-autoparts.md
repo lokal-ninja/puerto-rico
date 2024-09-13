@@ -1,5 +1,5 @@
 ---
 title: "Su Tienda Autoparts"
 url: /fajardo/su-tienda-autoparts/
-shop: Autoteile
+shop: car parts
 ---

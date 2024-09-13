@@ -1,5 +1,5 @@
 ---
 title: "VIP Auto Detailing Store"
 url: /san-juan/vip-auto-detailing-store/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "María Blondet"
 url: /san-juan/maria-blondet/
-shop: Schmuck
+shop: jewelry
 ---

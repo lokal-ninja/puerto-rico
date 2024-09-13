@@ -1,5 +1,5 @@
 ---
 title: "Comercial Espinosa"
 url: /dorado/comercial-espinosa/
-shop: Eisenwaren
+shop: hardware
 ---

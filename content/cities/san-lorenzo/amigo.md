@@ -1,5 +1,5 @@
 ---
 title: "Amigo"
 url: /san-lorenzo/amigo/
-shop: Supermarkt
+shop: supermarket
 ---

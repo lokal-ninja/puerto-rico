@@ -1,5 +1,5 @@
 ---
 title: "Canovanas Dog Grooming"
 url: /canovanas/canovanas-dog-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

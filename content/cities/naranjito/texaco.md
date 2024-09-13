@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /naranjito/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

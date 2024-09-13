@@ -1,5 +1,5 @@
 ---
 title: "Freshmart"
 url: /guaynabo/freshmart/
-shop: Bioladen
+shop: health food
 ---

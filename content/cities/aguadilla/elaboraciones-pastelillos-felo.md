@@ -1,5 +1,5 @@
 ---
 title: "Elaboraciones Pastelillos Felo"
 url: /aguadilla/elaboraciones-pastelillos-felo/
-shop: Baustoffe
+shop: trade
 ---

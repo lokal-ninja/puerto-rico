@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /vega-baja/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

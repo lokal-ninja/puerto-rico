@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /aguadilla/claro/
-shop: Handy
+shop: mobile phone
 ---

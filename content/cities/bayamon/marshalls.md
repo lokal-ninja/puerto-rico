@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /bayamon/marshalls/
-shop: Warenhaus
+shop: department store
 ---

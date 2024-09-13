@@ -1,5 +1,5 @@
 ---
 title: "Jardín Lomas Verdes"
 url: /san-juan/jardin-lomas-verdes/
-shop: Garten-Center
+shop: garden centre
 ---

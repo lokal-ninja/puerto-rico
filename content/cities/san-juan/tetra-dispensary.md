@@ -1,5 +1,5 @@
 ---
 title: "Tetra Dispensary"
 url: /san-juan/tetra-dispensary/
-shop: Hanf
+shop: cannabis
 ---

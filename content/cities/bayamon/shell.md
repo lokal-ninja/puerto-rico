@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /bayamon/shell/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /aguadilla/burlington/
-shop: Warenhaus
+shop: department store
 ---

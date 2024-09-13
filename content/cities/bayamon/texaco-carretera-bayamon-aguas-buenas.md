@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /bayamon/texaco-carretera-bayamon-aguas-buenas/
-shop: Lebensmittel
+shop: convenience
 ---

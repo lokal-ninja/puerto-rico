@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /dorado/mobil-mart-calle-norte/
-shop: Lebensmittel
+shop: convenience
 ---

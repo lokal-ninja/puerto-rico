@@ -1,5 +1,5 @@
 ---
 title: "Below zero"
 url: /san-juan/below-zero/
-shop: Tattoo
+shop: tattoo
 ---

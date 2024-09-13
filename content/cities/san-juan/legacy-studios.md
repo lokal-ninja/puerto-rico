@@ -1,5 +1,5 @@
 ---
 title: "Legacy Studios"
 url: /san-juan/legacy-studios/
-shop: Friseur
+shop: hairdresser
 ---

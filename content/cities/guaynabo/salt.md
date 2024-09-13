@@ -1,5 +1,5 @@
 ---
 title: "SALT"
 url: /guaynabo/salt/
-shop: Kleidung
+shop: clothes
 ---

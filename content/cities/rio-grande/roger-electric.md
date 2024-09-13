@@ -1,5 +1,5 @@
 ---
 title: "Roger Electric"
 url: /rio-grande/roger-electric/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Di Morini"
 url: /humacao/di-morini/
-shop: Schuhe
+shop: shoes
 ---

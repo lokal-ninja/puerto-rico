@@ -1,5 +1,5 @@
 ---
 title: "Foot Locker"
 url: /aibonito/foot-locker/
-shop: Schuhe
+shop: shoes
 ---

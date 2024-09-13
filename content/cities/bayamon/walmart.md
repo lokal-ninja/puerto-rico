@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /bayamon/walmart/
-shop: Warenhaus
+shop: department store
 ---

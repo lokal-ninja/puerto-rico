@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /aguada/shell/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /aguas-buenas/total/
-shop: Lebensmittel
+shop: convenience
 ---

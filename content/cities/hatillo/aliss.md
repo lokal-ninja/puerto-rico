@@ -1,5 +1,5 @@
 ---
 title: "Aliss"
 url: /hatillo/aliss/
-shop: Warenhaus
+shop: department store
 ---

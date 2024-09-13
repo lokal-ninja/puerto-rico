@@ -1,5 +1,5 @@
 ---
 title: "La Familia"
 url: /carolina/la-familia/
-shop: Leiher
+shop: pawnbroker
 ---

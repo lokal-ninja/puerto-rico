@@ -1,5 +1,5 @@
 ---
 title: "Berríos"
 url: /manati/berrios/
-shop: Möbel
+shop: furniture
 ---

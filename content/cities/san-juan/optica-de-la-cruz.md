@@ -1,5 +1,5 @@
 ---
 title: "Optica de la Cruz"
 url: /san-juan/optica-de-la-cruz/
-shop: Optiker
+shop: optician
 ---

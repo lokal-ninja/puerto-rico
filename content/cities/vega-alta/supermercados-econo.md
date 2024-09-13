@@ -1,5 +1,5 @@
 ---
 title: "Supermercados Econo"
 url: /vega-alta/supermercados-econo/
-shop: Supermarkt
+shop: supermarket
 ---

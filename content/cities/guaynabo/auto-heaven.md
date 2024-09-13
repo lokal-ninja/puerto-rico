@@ -1,5 +1,5 @@
 ---
 title: "Auto Heaven"
 url: /guaynabo/auto-heaven/
-shop: Autowerkstatt
+shop: car repair
 ---

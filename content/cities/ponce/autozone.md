@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /ponce/autozone/
-shop: Autoteile
+shop: car parts
 ---

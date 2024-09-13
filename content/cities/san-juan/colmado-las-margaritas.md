@@ -1,5 +1,5 @@
 ---
 title: "Colmado Las Margaritas"
 url: /san-juan/colmado-las-margaritas/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rent Express"
 url: /guayama/rent-express/
-shop: Möbel
+shop: furniture
 ---

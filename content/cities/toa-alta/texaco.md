@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /toa-alta/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

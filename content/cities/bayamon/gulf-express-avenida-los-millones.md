@@ -1,5 +1,5 @@
 ---
 title: "Gulf Express"
 url: /bayamon/gulf-express-avenida-los-millones/
-shop: Lebensmittel
+shop: convenience
 ---

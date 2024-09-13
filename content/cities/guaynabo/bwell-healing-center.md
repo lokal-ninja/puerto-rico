@@ -1,5 +1,5 @@
 ---
 title: "Bwell Healing Center"
 url: /guaynabo/bwell-healing-center/
-shop: Hanf
+shop: cannabis
 ---

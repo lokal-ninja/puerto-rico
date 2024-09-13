@@ -1,5 +1,5 @@
 ---
 title: "Gulf Express"
 url: /corozal/gulf-express/
-shop: Lebensmittel
+shop: convenience
 ---

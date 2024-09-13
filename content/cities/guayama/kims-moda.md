@@ -1,5 +1,5 @@
 ---
 title: "Kim's Moda"
 url: /guayama/kims-moda/
-shop: Kleidung
+shop: clothes
 ---

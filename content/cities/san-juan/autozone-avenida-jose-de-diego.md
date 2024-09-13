@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /san-juan/autozone-avenida-jose-de-diego/
-shop: Autoteile
+shop: car parts
 ---

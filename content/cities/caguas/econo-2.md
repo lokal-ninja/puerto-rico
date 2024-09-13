@@ -1,5 +1,5 @@
 ---
 title: "Econo"
 url: /caguas/econo-2/
-shop: Supermarkt
+shop: supermarket
 ---

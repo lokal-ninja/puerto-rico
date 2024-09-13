@@ -1,5 +1,5 @@
 ---
 title: "Pueblo"
 url: /san-juan/pueblo-avenida-plaza-las-americas/
-shop: Supermarkt
+shop: supermarket
 ---

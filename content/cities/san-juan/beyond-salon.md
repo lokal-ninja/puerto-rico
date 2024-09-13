@@ -1,5 +1,5 @@
 ---
 title: "Beyond Salon"
 url: /san-juan/beyond-salon/
-shop: Friseur
+shop: hairdresser
 ---

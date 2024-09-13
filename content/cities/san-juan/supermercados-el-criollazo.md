@@ -1,5 +1,5 @@
 ---
 title: "Supermercados El Criollazo"
 url: /san-juan/supermercados-el-criollazo/
-shop: Supermarkt
+shop: supermarket
 ---

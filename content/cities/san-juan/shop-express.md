@@ -1,5 +1,5 @@
 ---
 title: "Shop Express"
 url: /san-juan/shop-express/
-shop: Lebensmittel
+shop: convenience
 ---

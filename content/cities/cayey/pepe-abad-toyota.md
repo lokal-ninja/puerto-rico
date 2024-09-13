@@ -1,5 +1,5 @@
 ---
 title: "Pepe Abad Toyota"
 url: /cayey/pepe-abad-toyota/
-shop: Autohaus
+shop: car
 ---

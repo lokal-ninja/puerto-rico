@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /cabo-rojo/autozone/
-shop: Autoteile
+shop: car parts
 ---

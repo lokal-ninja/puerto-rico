@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /caguas/burlington/
-shop: Warenhaus
+shop: department store
 ---

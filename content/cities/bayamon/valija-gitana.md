@@ -1,5 +1,5 @@
 ---
 title: "Valija Gitana"
 url: /bayamon/valija-gitana/
-shop: Kleidung
+shop: clothes
 ---

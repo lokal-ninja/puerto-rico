@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /morovis/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Yokomuro Nissan"
 url: /bayamon/yokomuro-nissan/
-shop: Autohaus
+shop: car
 ---

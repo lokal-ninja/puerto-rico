@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /trujillo-alto/total/
-shop: Lebensmittel
+shop: convenience
 ---

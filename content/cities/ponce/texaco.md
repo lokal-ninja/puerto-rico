@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /ponce/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

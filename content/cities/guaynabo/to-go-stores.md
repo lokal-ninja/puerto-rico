@@ -1,5 +1,5 @@
 ---
 title: "To Go Stores"
 url: /guaynabo/to-go-stores/
-shop: Lebensmittel
+shop: convenience
 ---

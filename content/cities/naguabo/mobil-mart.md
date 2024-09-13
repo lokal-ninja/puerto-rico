@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /naguabo/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

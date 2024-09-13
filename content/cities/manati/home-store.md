@@ -1,5 +1,5 @@
 ---
 title: "Home Store"
 url: /manati/home-store/
-shop: Warenhaus
+shop: department store
 ---

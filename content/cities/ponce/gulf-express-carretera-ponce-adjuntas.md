@@ -1,5 +1,5 @@
 ---
 title: "Gulf Express"
 url: /ponce/gulf-express-carretera-ponce-adjuntas/
-shop: Lebensmittel
+shop: convenience
 ---

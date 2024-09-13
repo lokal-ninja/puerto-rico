@@ -1,5 +1,5 @@
 ---
 title: "Amigo"
 url: /hatillo/amigo/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /barceloneta/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sunoco"
 url: /caguas/sunoco/
-shop: Lebensmittel
+shop: convenience
 ---

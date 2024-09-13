@@ -1,5 +1,5 @@
 ---
 title: "Me Salvé"
 url: /bayamon/me-salve-avenida-lomas-verdes/
-shop: Warenhaus
+shop: department store
 ---

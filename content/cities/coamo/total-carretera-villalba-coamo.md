@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /coamo/total-carretera-villalba-coamo/
-shop: Lebensmittel
+shop: convenience
 ---

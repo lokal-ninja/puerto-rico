@@ -1,5 +1,5 @@
 ---
 title: "Farmacia Caney"
 url: /trujillo-alto/farmacia-caney/
-shop: Lebensmittel
+shop: convenience
 ---

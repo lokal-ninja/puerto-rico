@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /bayamon/ikea/
-shop: Möbel
+shop: furniture
 ---

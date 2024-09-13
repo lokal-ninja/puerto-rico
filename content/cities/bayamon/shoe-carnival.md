@@ -1,5 +1,5 @@
 ---
 title: "Shoe Carnival"
 url: /bayamon/shoe-carnival/
-shop: Schuhe
+shop: shoes
 ---

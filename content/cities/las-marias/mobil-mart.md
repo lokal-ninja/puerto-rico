@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /las-marias/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

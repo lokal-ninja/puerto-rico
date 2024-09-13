@@ -1,5 +1,5 @@
 ---
 title: "IZone - The Technology Zone"
 url: /guaynabo/izone-the-technology-zone/
-shop: Elektronik
+shop: electronics
 ---

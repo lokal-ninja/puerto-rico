@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /rio-grande/total/
-shop: Lebensmittel
+shop: convenience
 ---

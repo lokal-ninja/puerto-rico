@@ -1,5 +1,5 @@
 ---
 title: "Centropiezas Plus"
 url: /rio-grande/centropiezas-plus/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /adjuntas/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

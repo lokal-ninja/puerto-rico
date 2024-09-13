@@ -1,5 +1,5 @@
 ---
 title: "Pali Smoke Shop"
 url: /guayama/pali-smoke-shop/
-shop: Tabak
+shop: tobacco
 ---

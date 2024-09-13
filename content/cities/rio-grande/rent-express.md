@@ -1,5 +1,5 @@
 ---
 title: "Rent Express"
 url: /rio-grande/rent-express/
-shop: Möbel
+shop: furniture
 ---

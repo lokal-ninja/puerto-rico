@@ -1,5 +1,5 @@
 ---
 title: "AutoGrupo Kia"
 url: /san-juan/autogrupo-kia/
-shop: Autohaus
+shop: car
 ---

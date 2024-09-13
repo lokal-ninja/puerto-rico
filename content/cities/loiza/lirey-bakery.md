@@ -1,5 +1,5 @@
 ---
 title: "Lirey Bakery"
 url: /loiza/lirey-bakery/
-shop: Bäckerei
+shop: bakery
 ---

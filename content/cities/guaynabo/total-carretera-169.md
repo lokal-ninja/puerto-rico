@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /guaynabo/total-carretera-169/
-shop: Lebensmittel
+shop: convenience
 ---

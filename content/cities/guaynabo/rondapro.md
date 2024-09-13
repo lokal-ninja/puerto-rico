@@ -1,5 +1,5 @@
 ---
 title: "Rondapro"
 url: /guaynabo/rondapro/
-shop: Kopieren
+shop: copyshop
 ---

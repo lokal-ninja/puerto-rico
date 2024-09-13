@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /manati/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

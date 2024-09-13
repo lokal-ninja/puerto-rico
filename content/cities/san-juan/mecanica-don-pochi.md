@@ -1,5 +1,5 @@
 ---
 title: "Mecánica Don Pochi"
 url: /san-juan/mecanica-don-pochi/
-shop: Autowerkstatt
+shop: car repair
 ---

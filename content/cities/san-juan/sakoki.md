@@ -1,5 +1,5 @@
 ---
 title: "Sakoki"
 url: /san-juan/sakoki/
-shop: Andenken
+shop: gift
 ---

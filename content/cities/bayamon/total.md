@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /bayamon/total/
-shop: Lebensmittel
+shop: convenience
 ---

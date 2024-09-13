@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /utuado/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

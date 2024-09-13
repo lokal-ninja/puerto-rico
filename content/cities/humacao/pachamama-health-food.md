@@ -1,5 +1,5 @@
 ---
 title: "Pachamama Health Food"
 url: /humacao/pachamama-health-food/
-shop: Bioladen
+shop: health food
 ---

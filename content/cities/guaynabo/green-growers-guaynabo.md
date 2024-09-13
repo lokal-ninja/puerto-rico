@@ -1,5 +1,5 @@
 ---
 title: "Green Growers Guaynabo"
 url: /guaynabo/green-growers-guaynabo/
-shop: Hanf
+shop: cannabis
 ---

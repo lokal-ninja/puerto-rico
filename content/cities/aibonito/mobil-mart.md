@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /aibonito/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

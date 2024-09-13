@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /mayaguez/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

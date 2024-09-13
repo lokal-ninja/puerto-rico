@@ -1,5 +1,5 @@
 ---
 title: "The Vitamin Shoppe"
 url: /caguas/the-vitamin-shoppe/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

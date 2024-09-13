@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /sabana-grande/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

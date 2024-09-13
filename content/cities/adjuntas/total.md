@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /adjuntas/total/
-shop: Lebensmittel
+shop: convenience
 ---

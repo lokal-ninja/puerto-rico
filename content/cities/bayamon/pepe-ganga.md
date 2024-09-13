@@ -1,5 +1,5 @@
 ---
 title: "Pepe Ganga"
 url: /bayamon/pepe-ganga/
-shop: Warenhaus
+shop: department store
 ---

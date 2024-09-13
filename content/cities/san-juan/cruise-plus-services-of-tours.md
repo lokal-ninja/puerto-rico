@@ -1,5 +1,5 @@
 ---
 title: "Cruise Plus Services of Tours"
 url: /san-juan/cruise-plus-services-of-tours/
-shop: Reisebüro
+shop: travel agency
 ---

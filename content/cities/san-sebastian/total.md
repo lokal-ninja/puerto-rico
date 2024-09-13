@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /san-sebastian/total/
-shop: Lebensmittel
+shop: convenience
 ---

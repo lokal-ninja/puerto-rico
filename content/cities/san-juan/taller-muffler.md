@@ -1,5 +1,5 @@
 ---
 title: "Taller Muffler"
 url: /san-juan/taller-muffler/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Pacheco"
 url: /guayanilla/funeraria-pacheco/
-shop: Bestattungen
+shop: funeral directors
 ---

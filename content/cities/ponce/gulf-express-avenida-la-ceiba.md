@@ -1,5 +1,5 @@
 ---
 title: "Gulf Express"
 url: /ponce/gulf-express-avenida-la-ceiba/
-shop: Lebensmittel
+shop: convenience
 ---

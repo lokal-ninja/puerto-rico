@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /culebra/total/
-shop: Lebensmittel
+shop: convenience
 ---

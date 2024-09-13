@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /vega-baja/texaco/
-shop: Lebensmittel
+shop: convenience
 ---

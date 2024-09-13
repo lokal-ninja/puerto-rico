@@ -1,5 +1,5 @@
 ---
 title: "EAB"
 url: /san-juan/eab/
-shop: Autowerkstatt
+shop: car repair
 ---

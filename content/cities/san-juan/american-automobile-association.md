@@ -1,5 +1,5 @@
 ---
 title: "American Automobile Association"
 url: /san-juan/american-automobile-association/
-shop: Reisebüro
+shop: travel agency
 ---

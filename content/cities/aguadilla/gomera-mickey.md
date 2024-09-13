@@ -1,5 +1,5 @@
 ---
 title: "Gomera Mickey"
 url: /aguadilla/gomera-mickey/
-shop: Autowerkstatt
+shop: car repair
 ---

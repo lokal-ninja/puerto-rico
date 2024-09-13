@@ -1,5 +1,5 @@
 ---
 title: "Colmado Olivero"
 url: /catano/colmado-olivero/
-shop: Supermarkt
+shop: supermarket
 ---

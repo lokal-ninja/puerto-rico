@@ -1,5 +1,5 @@
 ---
 title: "Joyería Jasil"
 url: /aguadilla/joyeria-jasil/
-shop: Schmuck
+shop: jewelry
 ---

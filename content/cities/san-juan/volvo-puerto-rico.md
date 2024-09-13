@@ -1,5 +1,5 @@
 ---
 title: "Volvo Puerto Rico"
 url: /san-juan/volvo-puerto-rico/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Skechers"
 url: /bayamon/skechers/
-shop: Schuhe
+shop: shoes
 ---

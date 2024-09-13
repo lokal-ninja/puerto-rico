@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /cayey/texaco/
-shop: Lebensmittel
+shop: convenience
 ---
