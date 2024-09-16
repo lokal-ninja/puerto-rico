@@ -1,11 +1,11 @@
 id: 1154165917
-type: way
+type: node
 latitude: 18.37131
 longitude: -66.03756
 postcode: "00926"
 city: San Juan
-street: "Avenida Acuario"
-housenumber: 
+street: Avenida Acuario
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

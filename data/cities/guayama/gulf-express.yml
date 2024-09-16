@@ -1,11 +1,11 @@
 id: 1139035202
-type: way
+type: node
 latitude: 17.99024
 longitude: -66.11356
 postcode: "00784"
 city: Guayama
-street: "Calle San Agustín"
-housenumber: 
+street: Calle San Agustín
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

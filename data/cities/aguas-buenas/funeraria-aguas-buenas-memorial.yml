@@ -1,11 +1,11 @@
 id: 752101825
-type: way
+type: node
 latitude: 18.25809
 longitude: -66.10508
 postcode: "00703"
 city: Aguas Buenas
-street: "Calle Padre Quiñones"
-housenumber: 2
-phone: "787-732-8897"
-opening_hours: "24/7"
-website: "https://funerariaaguasbuenasmemorial.negocio.site"
+street: Calle Padre Quiñones
+housenumber: "2"
+phone: 787-732-8897
+opening_hours: 24/7
+website: https://funerariaaguasbuenasmemorial.negocio.site

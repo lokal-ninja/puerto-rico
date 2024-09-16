@@ -1,11 +1,11 @@
 id: 1250819829
-type: way
+type: node
 latitude: 18.43737
 longitude: -66.15411
 postcode: "00962"
 city: Cataño
-street: "Carretera Industrial"
-housenumber: 
-phone: "+1 787-275-1900"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "www.gonzaleztrading.com"
+street: Carretera Industrial
+housenumber: ""
+phone: +1 787-275-1900
+opening_hours: Mo-Fr 07:30-17:00
+website: www.gonzaleztrading.com

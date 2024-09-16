@@ -1,11 +1,11 @@
 id: 360181675
-type: way
+type: node
 latitude: 18.45161
 longitude: -66.05518
 postcode: "00911"
 city: San Juan
-street: "Calle Loíza (PR-37)"
-housenumber: 1963
+street: Calle Loíza (PR-37)
+housenumber: "1963"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1963+calle+loiza-san+juan-pr-00911/id=667"
+website: https://www.walgreens.com/locator/walgreens-1963+calle+loiza-san+juan-pr-00911/id=667

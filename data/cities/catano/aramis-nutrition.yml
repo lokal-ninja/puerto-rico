@@ -1,11 +1,11 @@
 id: 531540501
-type: way
+type: node
 latitude: 18.43929
 longitude: -66.12394
 postcode: "00962"
 city: Cataño
-street: "Calle El Tren"
-housenumber: 144
+street: Calle El Tren
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

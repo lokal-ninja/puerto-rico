@@ -1,11 +1,11 @@
 id: 1153930645
-type: way
+type: node
 latitude: 18.35155
 longitude: -66.15727
 postcode: "00956"
 city: Bayamón
-street: "Avenida Minillas"
-housenumber: 
+street: Avenida Minillas
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

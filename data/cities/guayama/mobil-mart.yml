@@ -1,11 +1,11 @@
 id: 1139035210
-type: way
+type: node
 latitude: 18.00533
 longitude: -66.1141
 postcode: "00784"
 city: Guayama
-street: "PR-179"
-housenumber: 
+street: PR-179
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

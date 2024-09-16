@@ -1,11 +1,11 @@
 id: 1144517625
-type: way
+type: node
 latitude: 18.17444
 longitude: -66.11182
 postcode: "00739"
 city: Cidra
-street: "PR-787"
-housenumber: 
+street: PR-787
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

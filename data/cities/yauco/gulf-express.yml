@@ -1,11 +1,11 @@
 id: 1148067209
-type: way
+type: node
 latitude: 18.03288
 longitude: -66.85192
 postcode: "00698"
 city: Yauco
-street: "Calle 25 de Julio"
-housenumber: 
+street: Calle 25 de Julio
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

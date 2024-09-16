@@ -1,11 +1,11 @@
 id: 366726839
-type: way
+type: node
 latitude: 18.37145
 longitude: -66.03708
 postcode: "00926"
 city: San Juan
-street: "Calle Acuario"
-housenumber: 
+street: Calle Acuario
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

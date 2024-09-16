@@ -1,11 +1,11 @@
 id: 333983664
-type: way
+type: node
 latitude: 18.44948
 longitude: -66.06231
 postcode: "00911"
 city: San Juan
-street: "Calle San Jorge"
-housenumber: 164
+street: Calle San Jorge
+housenumber: "164"
 phone: "17874483782"
 opening_hours: ""
 website: ""

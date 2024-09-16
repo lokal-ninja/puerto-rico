@@ -1,11 +1,11 @@
 id: 1065331391
-type: way
+type: node
 latitude: 18.38201
 longitude: -65.9785
 postcode: "00987"
 city: Carolina
-street: "PR-860"
-housenumber: 
+street: PR-860
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

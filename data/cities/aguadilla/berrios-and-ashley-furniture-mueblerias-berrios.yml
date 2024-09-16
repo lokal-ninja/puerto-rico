@@ -1,11 +1,11 @@
 id: 204028336
-type: way
+type: node
 latitude: 18.41191
 longitude: -67.15328
 postcode: "00603"
 city: Aguadilla
-street: "Calle Marginal"
-housenumber: 
-phone: "(787) 882-0777"
-opening_hours: "Mo 08:30-17:30, Su 12:00-17:00"
-website: "https://berriostedamas.com/"
+street: Calle Marginal
+housenumber: ""
+phone: (787) 882-0777
+opening_hours: Mo 08:30-17:30, Su 12:00-17:00
+website: https://berriostedamas.com/

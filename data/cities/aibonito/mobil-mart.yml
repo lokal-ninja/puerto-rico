@@ -1,11 +1,11 @@
 id: 1138181353
-type: way
+type: node
 latitude: 18.12968
 longitude: -66.28544
 postcode: "00705"
 city: Aibonito
-street: "Carretera Central"
-housenumber: 
+street: Carretera Central
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 79271726
-type: way
+type: node
 latitude: 18.42036
 longitude: -66.07303
 postcode: "00918"
 city: San Juan
-street: "Avenida Franklin Delano Roosevelt"
-housenumber: 525
+street: Avenida Franklin Delano Roosevelt
+housenumber: "525"
 phone: ""
 opening_hours: ""
 website: ""

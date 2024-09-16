@@ -1,11 +1,11 @@
 id: 1119196797
-type: way
+type: node
 latitude: 18.45847
 longitude: -66.25911
 postcode: "00646"
 city: Dorado
-street: "Calle Norte"
-housenumber: 
+street: Calle Norte
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

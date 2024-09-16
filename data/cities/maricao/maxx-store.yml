@@ -1,11 +1,11 @@
 id: 1214907948
-type: way
+type: node
 latitude: 18.18126
 longitude: -66.97872
 postcode: "00606"
 city: Maricao
-street: "Carretera 105"
-housenumber: 
+street: Carretera 105
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

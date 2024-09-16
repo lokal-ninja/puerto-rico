@@ -1,11 +1,11 @@
 id: 1073645926
-type: way
+type: node
 latitude: 18.31408
 longitude: -67.22413
 postcode: "00677"
 city: Rincón
-street: "Avenida Dr. Pedro Albizu Campos"
-housenumber: 
+street: Avenida Dr. Pedro Albizu Campos
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

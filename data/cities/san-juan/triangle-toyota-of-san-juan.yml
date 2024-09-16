@@ -1,11 +1,11 @@
 id: 366582464
-type: way
+type: node
 latitude: 18.42203
 longitude: -66.09652
 postcode: "00920"
 city: San Juan
-street: "Avenida John F. Kennedy"
-housenumber: 223
-phone: "787-304-1631"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.triangletoyota.com/"
+street: Avenida John F. Kennedy
+housenumber: "223"
+phone: 787-304-1631
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.triangletoyota.com/

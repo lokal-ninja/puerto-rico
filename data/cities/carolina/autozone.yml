@@ -1,11 +1,11 @@
 id: 261319176
-type: way
+type: node
 latitude: 18.39762
 longitude: -65.99018
 postcode: "00986"
 city: Carolina
-street: "PR-887"
-housenumber: 
+street: PR-887
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

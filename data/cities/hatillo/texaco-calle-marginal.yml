@@ -1,11 +1,11 @@
 id: 1132029346
-type: way
+type: node
 latitude: 18.42023
 longitude: -66.7681
 postcode: "00612"
 city: Hatillo
-street: "Calle Marginal"
-housenumber: 
+street: Calle Marginal
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

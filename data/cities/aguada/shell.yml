@@ -1,11 +1,11 @@
 id: 1130699800
-type: way
+type: node
 latitude: 18.33511
 longitude: -67.15697
 postcode: "00602"
 city: Aguada
-street: "Calle Marginal"
-housenumber: 
+street: Calle Marginal
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

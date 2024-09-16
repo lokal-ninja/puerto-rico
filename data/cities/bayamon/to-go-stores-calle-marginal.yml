@@ -1,11 +1,11 @@
 id: 1130674367
-type: way
+type: node
 latitude: 18.3987
 longitude: -66.13074
 postcode: "00921"
 city: Bayamón
-street: "Calle Marginal"
-housenumber: 
+street: Calle Marginal
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

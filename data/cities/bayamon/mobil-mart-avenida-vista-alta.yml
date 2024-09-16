@@ -1,11 +1,11 @@
 id: 1155314332
-type: way
+type: node
 latitude: 18.38545
 longitude: -66.17925
 postcode: "00957"
 city: Bayamón
-street: "Avenida Vista Alta"
-housenumber: 
+street: Avenida Vista Alta
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

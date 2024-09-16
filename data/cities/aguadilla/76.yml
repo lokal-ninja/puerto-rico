@@ -1,11 +1,11 @@
 id: 1064933750
-type: way
+type: node
 latitude: 18.41292
 longitude: -67.15373
 postcode: "00603"
 city: Aguadilla
-street: "Avenida Victoria"
-housenumber: 
+street: Avenida Victoria
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

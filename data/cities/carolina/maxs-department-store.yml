@@ -1,11 +1,11 @@
 id: 532343300
-type: way
+type: node
 latitude: 18.4165
 longitude: -65.99013
 postcode: "00982"
 city: Carolina
-street: "Avenida Roberto Sánchez Vilella / Avenida Campo Rico"
-housenumber: 
+street: Avenida Roberto Sánchez Vilella / Avenida Campo Rico
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00, Su 10:00-19:00"
-website: "https://www.maxspr.com/"
+opening_hours: Mo-Sa 09:00-19:00, Su 10:00-19:00
+website: https://www.maxspr.com/

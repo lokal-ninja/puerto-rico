@@ -1,11 +1,11 @@
 id: 527836019
-type: way
+type: node
 latitude: 18.24283
 longitude: -66.03582
 postcode: "00725"
 city: Caguas
-street: "Calle Marginal"
-housenumber: 
+street: Calle Marginal
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

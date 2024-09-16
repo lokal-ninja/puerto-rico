@@ -1,11 +1,11 @@
 id: 692346771
-type: way
+type: node
 latitude: 18.23919
 longitude: -67.15949
 postcode: "00680"
 city: Mayagüez
-street: "Calle de Servicio"
-housenumber: 
+street: Calle de Servicio
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

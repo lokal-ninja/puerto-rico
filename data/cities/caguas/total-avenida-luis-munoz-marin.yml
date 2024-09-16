@@ -1,11 +1,11 @@
 id: 1151016055
-type: way
+type: node
 latitude: 18.24432
 longitude: -66.02161
 postcode: "00725"
 city: Caguas
-street: "Avenida Luis Muñoz Marín"
-housenumber: 
+street: Avenida Luis Muñoz Marín
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

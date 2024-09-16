@@ -1,11 +1,11 @@
 id: 1079287738
-type: way
+type: node
 latitude: 18.40374
 longitude: -66.08696
 postcode: "00928"
 city: San Juan
-street: "Avenida José de Diego"
-housenumber: 
+street: Avenida José de Diego
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

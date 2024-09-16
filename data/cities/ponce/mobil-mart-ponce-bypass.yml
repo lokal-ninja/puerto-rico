@@ -1,11 +1,11 @@
 id: 1152567738
-type: way
+type: node
 latitude: 17.99633
 longitude: -66.63444
 postcode: "00716"
 city: Ponce
-street: "Ponce Bypass"
-housenumber: 
+street: Ponce Bypass
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

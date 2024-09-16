@@ -4,8 +4,8 @@ latitude: 18.41278
 longitude: -66.02632
 postcode: "00924"
 city: San Juan
-street: "The Mall of San Juan Boulevard"
-housenumber: 1000
-phone: "+1 787-724-9065"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.ferragamo.com/"
+street: The Mall of San Juan Boulevard
+housenumber: "1000"
+phone: +1 787-724-9065
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.ferragamo.com/

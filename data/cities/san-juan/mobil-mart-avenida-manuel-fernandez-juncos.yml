@@ -1,11 +1,11 @@
 id: 320118927
-type: way
+type: node
 latitude: 18.44679
 longitude: -66.0725
 postcode: "00909"
 city: San Juan
-street: "Avenida Manuel Fernández Juncos"
-housenumber: 1315
+street: Avenida Manuel Fernández Juncos
+housenumber: "1315"
 phone: ""
 opening_hours: ""
 website: ""

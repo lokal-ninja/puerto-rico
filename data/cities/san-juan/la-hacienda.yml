@@ -1,11 +1,11 @@
 id: 295558847
-type: way
+type: node
 latitude: 18.45534
 longitude: -66.08321
 postcode: "00907"
 city: San Juan
-street: "Avenida Juan Ponce de León"
-housenumber: 762
+street: Avenida Juan Ponce de León
+housenumber: "762"
 phone: ""
-opening_hours: "Mo-Fr 7:00-20:00; Sa 9:00-20:00; Su 10:00-18:00"
+opening_hours: Mo-Fr 7:00-20:00; Sa 9:00-20:00; Su 10:00-18:00
 website: ""

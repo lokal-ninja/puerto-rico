@@ -1,11 +1,11 @@
 id: 366579510
-type: way
+type: node
 latitude: 18.42489
 longitude: -66.09467
 postcode: "00920"
 city: San Juan
-street: "Avenida John F. Kennedy"
-housenumber: 
-phone: "787-301-0406"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.hondadesanjuan.com/"
+street: Avenida John F. Kennedy
+housenumber: ""
+phone: 787-301-0406
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.hondadesanjuan.com/

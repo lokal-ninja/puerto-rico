@@ -1,11 +1,11 @@
 id: 358996634
-type: way
+type: node
 latitude: 18.44778
 longitude: -66.05299
 postcode: ""
 city: San Juan
-street: "Calle Tapia"
-housenumber: 220
-phone: "787-727-7777"
+street: Calle Tapia
+housenumber: "220"
+phone: 787-727-7777
 opening_hours: ""
 website: ""

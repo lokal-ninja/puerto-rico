@@ -1,11 +1,11 @@
 id: 1134365808
-type: way
+type: node
 latitude: 18.23703
 longitude: -66.03206
 postcode: "00725"
 city: Caguas
-street: "Calle Los Núñez"
-housenumber: 
+street: Calle Los Núñez
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

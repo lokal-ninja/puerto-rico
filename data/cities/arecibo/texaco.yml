@@ -1,11 +1,11 @@
 id: 532114214
-type: way
+type: node
 latitude: 18.41925
 longitude: -66.61059
 postcode: "00612"
 city: Arecibo
-street: "PR-639"
-housenumber: 
+street: PR-639
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

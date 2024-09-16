@@ -1,11 +1,11 @@
 id: 1152567743
-type: way
+type: node
 latitude: 18.00395
 longitude: -66.6208
 postcode: "00730"
 city: Ponce
-street: "Calle Capitán Correa"
-housenumber: 
+street: Calle Capitán Correa
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

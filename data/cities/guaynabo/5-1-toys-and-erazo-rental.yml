@@ -1,11 +1,11 @@
 id: 404321716
-type: way
+type: node
 latitude: 18.39419
 longitude: -66.12079
 postcode: "00966"
 city: Guaynabo
-street: "Calle El Buen Samaritano"
-housenumber: 
-phone: "+1 787-793-3134"
-opening_hours: "Mo,We-Fr 09:00-17:00; Sa 09:00-13:00"
+street: Calle El Buen Samaritano
+housenumber: ""
+phone: +1 787-793-3134
+opening_hours: Mo,We-Fr 09:00-17:00; Sa 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 532025322
-type: way
+type: node
 latitude: 18.44098
 longitude: -66.12093
 postcode: "00962"
 city: Cataño
-street: "Avenida José Celso Barbosa"
-housenumber: 137
+street: Avenida José Celso Barbosa
+housenumber: "137"
 phone: ""
 opening_hours: ""
 website: ""

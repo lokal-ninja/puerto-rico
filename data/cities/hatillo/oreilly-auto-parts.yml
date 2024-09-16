@@ -1,11 +1,11 @@
 id: 532821988
-type: way
+type: node
 latitude: 18.48406
 longitude: -66.76878
 postcode: "00659"
 city: Hatillo
-street: "Avenida Miramar"
-housenumber: 
-phone: "+1 787-544-4950"
-opening_hours: "Mo-Sa 07:00-21:00, Su 08:00-20:00"
+street: Avenida Miramar
+housenumber: ""
+phone: +1 787-544-4950
+opening_hours: Mo-Sa 07:00-21:00, Su 08:00-20:00
 website: ""

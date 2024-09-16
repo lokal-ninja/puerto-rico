@@ -1,11 +1,11 @@
 id: 1068854460
-type: way
+type: node
 latitude: 18.36808
 longitude: -66.08091
 postcode: "00927"
 city: San Juan
-street: "Calle Reina de las Flores"
-housenumber: 
+street: Calle Reina de las Flores
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

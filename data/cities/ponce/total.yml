@@ -1,11 +1,11 @@
 id: 531501040
-type: way
+type: node
 latitude: 18.03194
 longitude: -66.64172
 postcode: "00728"
 city: Ponce
-street: "Avenida Juan Ponce de León"
-housenumber: 
+street: Avenida Juan Ponce de León
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""
