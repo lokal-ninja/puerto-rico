@@ -1,5 +1,5 @@
 ---
 title: "Me Salvé"
-url: /humacao/me-salve-carretera-ceiba-humacao/
+url: /bayamon/me-salve-avenida-lomas-verdes/
 shop: department store
 ---
