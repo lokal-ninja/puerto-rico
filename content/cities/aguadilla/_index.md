@@ -1,6 +1,6 @@
 ---
 title: Aguadilla
 url: /aguadilla/
-latitude: 18.424
-longitude: -67.15
+latitude: 18.409
+longitude: -67.152
 ---
