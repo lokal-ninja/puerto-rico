@@ -1,6 +1,6 @@
 ---
-title: Lares
+title: LARES
 url: /lares/
-latitude: 18.295
-longitude: -66.877
+latitude: 18.288
+longitude: -66.889
 ---
