@@ -1,6 +1,6 @@
 ---
 title: Cidra
 url: /cidra/
-latitude: 18.178
-longitude: -66.149
+latitude: 18.172
+longitude: -66.156
 ---
