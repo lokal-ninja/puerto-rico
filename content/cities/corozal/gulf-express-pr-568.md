@@ -1,5 +1,5 @@
 ---
 title: "Gulf Express"
-url: /maunabo/gulf-express/
+url: /corozal/gulf-express-pr-568/
 shop: convenience
 ---
