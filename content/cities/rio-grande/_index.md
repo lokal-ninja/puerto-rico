@@ -1,6 +1,6 @@
 ---
 title: Río Grande
 url: /rio-grande/
-latitude: 18.379
-longitude: -65.835
+latitude: 18.378
+longitude: -65.841
 ---
