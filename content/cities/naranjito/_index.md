@@ -1,6 +1,6 @@
 ---
 title: Naranjito
 url: /naranjito/
-latitude: 18.273
-longitude: -66.275
+latitude: 18.272
+longitude: -66.274
 ---
