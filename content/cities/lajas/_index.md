@@ -1,6 +1,6 @@
 ---
 title: Lajas
 url: /lajas/
-latitude: 18.048
-longitude: -67.059
+latitude: 18.039
+longitude: -67.058
 ---

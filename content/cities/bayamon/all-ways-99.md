@@ -1,5 +1,5 @@
 ---
-title: "All Ways 99"
+title: "All-Ways 99"
 url: /bayamon/all-ways-99/
 shop: variety store
 ---
