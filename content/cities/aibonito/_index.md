@@ -1,6 +1,6 @@
 ---
 title: Aibonito
 url: /aibonito/
-latitude: 18.146
-longitude: -66.249
+latitude: 18.113
+longitude: -66.26
 ---
