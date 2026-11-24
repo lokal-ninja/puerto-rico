@@ -1,6 +1,6 @@
 ---
 title: Aguas Buenas
 url: /aguas-buenas/
-latitude: 18.272
-longitude: -66.096
+latitude: 18.258
+longitude: -66.105
 ---
